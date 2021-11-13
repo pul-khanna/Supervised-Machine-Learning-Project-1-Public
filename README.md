@@ -8,9 +8,9 @@ This dataset was collected from UC Irvine Machine Learning Repository and is com
 
 The is an intermediate level data analysis and is divided into 2 files -
 
-Data Wrangling and EDA -  Data Wrangling.ipynb file refers to the first part of the data analysis and gives detailed intructions showing step by step on how to perform Exploratory Data Analysis(EDA). Various techniques will be performed such as "Multiple Imputation" and "BoxCox Transformation" for Outlier Treatment, "Plotting(Boxenplots, Histograms)", "Feature Selection" etc.
+ Supervised Learning Project- Data Wrangling.ipynb file refers to the first part of the data analysis and gives detailed intructions showing step by step on how to perform Exploratory Data Analysis(EDA). Various techniques will be performed such as "Multiple Imputation" and "BoxCox Transformation" for Outlier Treatment, "Plotting(Boxenplots, Histograms)", "Feature Selection" etc.
 
-Modelling - Modelling.ipynb file refers to the second part of the data analysis and gives detailed intructions showing step by step on how to perform modelling for classifcation. Various models for Classification are shown including Gradient Boosting and Voting Classifier(Ensemble). We will also be talking about the metrics in detail used for our model for performance evaluation. We will be showing how to use threshold value with precision-recall curves and classifcation reports made with K-folds. For CV and Grid Search we will calculating multiple metrics/scores and also we will be using a custom made score function (f2_score which will be our primary metric).
+ Supervised Learning Project- Modelling.ipynb file refers to the second part of the data analysis and gives detailed intructions showing step by step on how to perform modelling for classifcation. Various models for Classification are shown including Gradient Boosting and Voting Classifier(Ensemble). We will also be talking about the metrics in detail used for our model for performance evaluation. We will be showing how to use threshold value with precision-recall curves and classifcation reports made with K-folds. For CV and Grid Search we will calculating multiple metrics/scores and also we will be using a custom made score function (f2_score which will be our primary metric).
 
 
 Cited References:-
