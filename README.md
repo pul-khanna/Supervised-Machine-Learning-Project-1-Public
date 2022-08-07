@@ -4,7 +4,7 @@ This is a Coursera Project for the 3rd course from IBM Machine Learning Course s
 
 Supervised Machine Learning : Classification
 
-This dataset was collected from UC Irvine Machine Learning Repository and is composed of a range of biomedical voice measurements from 31 people, 23 with Parkinson's disease (PD). Each column in the table is a particular voice measure, and each row corresponds one of 195 voice recording from these individuals ("name" column). The main aim of the data is to discriminate healthy people from those with PD, according to "status" column which is set to 0 for healthy and 1 for PD, i.e. this is a binary classfication problem. The test should have at maximum a False Negative Rate of 0.1%, that is the test sensitivity should be high, at least 0.9% as it is more important to correctly identify patients with the disease.
+This dataset was collected from UC Irvine Machine Learning Repository and is composed of a range of biomedical voice measurements from 31 people, 23 with Parkinson's disease (PD). Each column in the table is a particular voice measure, and each row corresponds one of 195 voice recording from these individuals ("name" column). The main aim of the data is to discriminate healthy people from those with PD, according to "status" column which is set to 0 for healthy and 1 for PD, i.e. this is a binary classification problem. The test should have at maximum a False Negative Rate of 0.1%, that is the test sensitivity should be high, at least 0.9% as it is more important to correctly identify patients with the disease.
 
 The is an intermediate level data analysis and is divided into 2 files -
 
