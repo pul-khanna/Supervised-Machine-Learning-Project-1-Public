@@ -1,4 +1,4 @@
-# Coursera-Supervised-Machine-Learning-Project-1-Public
+# Supervised-Machine-Learning-Project-1-Public
 
 This is a Coursera Project for the 3rd course from IBM Machine Learning Course series -
 
